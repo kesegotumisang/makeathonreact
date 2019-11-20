@@ -20,6 +20,12 @@ with left pane showwing image metadata
 ![Kepler](/kepler.png)
 ![Kepler](/analytics.png)
 
-##Recommendation
+### Recommendation
 
 use mapbox to generate the basemap from satellite images
+
+
+### recommended playlist
+Have a little fun while building this solution
+[Music](https://www.youtube.com/watch?v=0V8l6-RfgEA)
+[Music](https://www.youtube.com/watch?v=TDcJJYY5sms&t=206s)
