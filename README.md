@@ -27,5 +27,5 @@ use mapbox to generate the basemap from satellite images
 
 ### recommended playlist
 Have a little fun while building this solution
-- [Music](https://www.youtube.com/watch?v=0V8l6-RfgEA)
-- [Music](https://www.youtube.com/watch?v=TDcJJYY5sms&t=206s)
+- [Chill step 2017](https://www.youtube.com/watch?v=0V8l6-RfgEA)
+- [Chill step 2018](https://www.youtube.com/watch?v=TDcJJYY5sms&t=206s)
