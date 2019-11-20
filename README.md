@@ -2,13 +2,13 @@
 
 Waste monitoring and analytics 
 
-###Dependencies
+## Dependencies
 - material-ui
 - reactjs
 - create react-app
 - Nodejs
 
-## general ui insperation
+## general ui inspiration
 
 
 UI from opensource project [Kepler.gl](https://kepler.gl/)
