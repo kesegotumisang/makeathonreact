@@ -1,11 +1,12 @@
 # makeathon react frontend
 
-####Waste monitoring and analytics 
+Waste monitoring and analytics 
 
-##Dependencies
+###Dependencies
 - material-ui
 - reactjs
 - create react-app
+- Nodejs
 
 ## general ui insperation
 
