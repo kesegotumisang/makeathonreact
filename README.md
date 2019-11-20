@@ -11,9 +11,13 @@
 
 
 UI from opensource project [Kepler.gl](https://kepler.gl/)
+with left pane showwing image metadata
+- location
+- gps coordinates
+- 
 
 ![Kepler](/kepler.png)
 
 ##Recommendation
 
-use mapbox to generate the map from satellite images
+use mapbox to generate the basemap from satellite images
