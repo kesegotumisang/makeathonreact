@@ -18,6 +18,7 @@ with left pane showwing image metadata
 - 
 
 ![Kepler](/kepler.png)
+![Kepler](/analytics.png)
 
 ##Recommendation
 
